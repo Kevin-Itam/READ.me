@@ -12,4 +12,4 @@
 </div>
 <br><br>
 
-![Snake animation](https://github.com/Kevin-Itam/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kevin-Itam/Kevin-Status/blob/output/github-contribution-grid-snake.svg)
