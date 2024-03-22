@@ -18,5 +18,3 @@
 <br>
 
 ##
-
-![Snake animation](https://github.com/Kevin-Itam/Kevin-Itam/blob/output/github-contribution-grid-snake.svg)
