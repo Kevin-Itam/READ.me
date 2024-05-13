@@ -63,4 +63,4 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />          
   </div>
 
-![snake animation](https://github.com/Kevin-Itam/Kevin-Itam/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/Kevin-Itam/Kevin-Itam/output/github-contribution-grid-snake-dark.svg)
