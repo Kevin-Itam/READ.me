@@ -32,7 +32,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [SASS - Portfolio](https://github.com/VariableBee/EDA_Loggi)
+- [SASS - Portfolio](https://github.com)
 
 
 <!-- GIF -->
