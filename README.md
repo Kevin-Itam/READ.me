@@ -32,7 +32,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- <a href="https://kevin-itam.github.io/Portfolio/" target="_blank">SASS - Portfolio</a>
+<a href="https://kevin-itam.github.io/Portfolio/" target="_blank">SASS - Portfolio</a>
 
 
 <!-- GIF -->
